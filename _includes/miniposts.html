@@ -4,7 +4,20 @@
       <article class="mini-post">
   	    <header>
   		    <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-		      <time class="published" datetime="{{post.date | date: "%F" }}">{{ post.date | date: "%B %d, %Y" }}</time>
+		    	<time class="published" datetime="{{ page.date | date: "%F" }}">
+		    	  {{ page.date | date: "%B %d, %Y" | replace: "January", "janvier" 
+		    	                                   | replace: "February", "février" 
+		    	                                   | replace: "March", "mars" 
+		    	                                   | replace: "April", "avril" 
+		    	                                   | replace: "May", "mai" 
+		    	                                   | replace: "June", "juin" 
+		    	                                   | replace: "July", "juillet" 
+		    	                                   | replace: "August", "août" 
+		    	                                   | replace: "September", "septembre" 
+		    	                                   | replace: "October", "octobre" 
+		    	                                   | replace: "November", "novembre" 
+		    	                                   | replace: "December", "décembre" }}
+		    	</time>
 						<!--<a href="#" class="author"><img src="/images/avatar.jpg" alt="" /></a>-->
 			  </header>
         {% if post.image %}

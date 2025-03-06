@@ -1,22 +1,26 @@
 # Site settings
 title: DONNEURS D'ORDRE & SOUS TRAITANTS
 compagny: DOST
-email: your-email@domain.com
+email: contact@dost.pro
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/blog-dost-pro-btp/" # the subpath of your site, e.g. /blog/
-url: "https://dost-pro.github.io" #"https://dost-pro.github.io" # the base hostname & protocol for your site
-#baseurl: "" # the subpath of your site, e.g. /blog/
-#url: ""
-twitter_username: jekyllrb
-github_username:  jekyll
+  Pourquoi ce blog ?
+  Chez DOST, nous croyons que la sous-traitance dans le BTP peut être plus simple, plus transparente et plus efficace.
+  Nous savons que les directeurs de travaux, chefs d’entreprise et artisans font face à des défis quotidiens tel que
+  trouver des sous-traitants qualifiés rapidement, assurer la conformité administrative et juridique et éviter
+  les retards et sécuriser les paiements...
+#baseurl: "/blog-dost-pro-btp/" # the subpath of your site, e.g. /blog/
+#url: "https://dost-pro.github.io" #"https://dost-pro.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:4000"
+twitter_username: DOST_PRO
+facebook_username: people/DOST/100090670612226/
+linkedin_username: company/dost-pro
+instagram_username: do.st_33/
 
 # Build settings
 markdown: kramdown
 
-author: Your name
+author: DOST tous droits réservés
 
 gems: [jekyll-paginate]
 
