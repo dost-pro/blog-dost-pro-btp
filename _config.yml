@@ -26,6 +26,7 @@ gems: [jekyll-paginate]
 
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
 
 paginate: 4  # Number of posts per page
 paginate_path: "/page:num/"
