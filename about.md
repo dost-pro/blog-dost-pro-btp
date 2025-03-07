@@ -1,7 +1,7 @@
 ---
 layout: no-about-page
 title: Pourquoi ce blog ?
-permalink: /a-propos/
+permalink: /blog-dost-pro-btp/a-propos/
 image: /images/picture01.png
 ---
 
