@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🙌 Remerciements
-permalink: /blog-dost-pro-btp/remerciements/
+permalink: /remerciements/
 image: /images/picture02.png
 ---
 
