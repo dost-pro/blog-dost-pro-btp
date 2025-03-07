@@ -47,6 +47,45 @@
 	body {
 		-webkit-text-size-adjust: none;
 	}
+/* Cookies banner */
+	.cookie-banner {
+	  position: fixed;
+	  bottom: 20px;
+	  left: 50%;
+	  transform: translateX(-50%);
+	  background-color: #222;
+	  color: white;
+	  padding: 15px;
+	  border-radius: 5px;
+	  display: flex;
+	  align-items: center;
+	  gap: 10px;
+	  box-shadow: 0px 2px 10px rgba(0,0,0,0.2);
+	}
+	
+	.cookie-banner p {
+	  margin: 0;
+	  font-size: 14px;
+	}
+
+	.cookie-banner a {
+	  color: #ffd700;
+	  text-decoration: underline;
+	}
+
+	.cookie-banner button {
+	  background-color: #4CAF50;
+	  color: white;
+	  border: none;
+	  padding: 4px 6px;
+	  cursor: pointer;
+	  font-size: 14px;
+	  border-radius: 3px;
+	}
+
+	.cookie-banner button#reject-cookies {
+	  background-color: #f44336;
+	}
 
 /* Box Model */
 

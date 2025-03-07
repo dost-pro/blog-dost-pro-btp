@@ -1,0 +1,39 @@
+<!-- Cookie Banner (RGPD Compliant) -->
+<div id="cookie-banner" class="cookie-banner">
+  <p>
+    Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur « Accepter », vous acceptez notre utilisation des cookies.
+    <a href="/privacy-policy/">En savoir plus</a>
+  </p>
+  <button id="accept-cookies">Refuser</button>
+  <button id="reject-cookies">Accepter</button>
+</div>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    let consent = localStorage.getItem("cookieConsent");
+    let cookieBanner = document.getElementById("cookie-banner");
+
+    // If consent is already given, hide the banner
+    if (consent === "accepted" || consent === "rejected") {
+      cookieBanner.style.display = "none";
+    } else {
+      cookieBanner.style.display = "flex"; // Show banner only if consent is missing
+    }
+
+    // Accept Cookies Button
+    document.getElementById("accept-cookies").addEventListener("click", function () {
+      localStorage.setItem("cookieConsent", "accepted");
+      document.body.setAttribute("data-cookies-accepted", "true");
+      cookieBanner.style.display = "none"; // Hide banner
+      location.reload(); // Reload page to apply cookie settings
+    });
+
+    // Reject Cookies Button
+    document.getElementById("reject-cookies").addEventListener("click", function () {
+      localStorage.setItem("cookieConsent", "rejected");
+      document.body.removeAttribute("data-cookies-accepted");
+      cookieBanner.style.display = "none"; // Hide banner
+    });
+  });
+</script>
