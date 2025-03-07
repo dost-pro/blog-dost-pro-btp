@@ -4,7 +4,7 @@ title:  "Gagner du Temps sur la Gestion des Sous-Traitants : 4 Outils Indispensa
 date:   2024-08-05 06:00:00
 categories: 
 tags: DigitalisationBTP OptimisationChantier GestionSousTraitants EfficacitéBTP
-image: /images/pic02.jpg
+image: /images/picture04.png
 ---
 ##   Simplifiez la Gestion de Vos Sous-Traitants
 La gestion des sous-traitants peut vite devenir un casse-tête pour les **directeurs de travaux et chefs d’entreprise** du BTP. Entre sourcing, contrats, suivi et paiements, ces tâches **prennent du temps** et augmentent les risques d’erreurs.

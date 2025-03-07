@@ -2,7 +2,7 @@
 layout: no-about-page
 title: Pourquoi ce blog ?
 permalink: /a-propos/
-image: /images/pic02.jpg
+image: /images/picture01.png
 ---
 
 Chez **DOST**, nous croyons que la sous-traitance dans le BTP peut être **plus simple, plus transparente et plus efficace**. Nous savons que les **directeurs de travaux, chefs d’entreprise et artisans** font face à des défis quotidiens :

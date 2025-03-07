@@ -4,7 +4,7 @@ title:  "Audit de Conformité en Sous-Traitance : 3 Étapes pour Éviter les Mau
 date:   2024-11-04 06:00:00
 categories: 
 tags: ConformitéBTP AuditSousTraitance SécurisationChantiers GestionRisques RéglementationBTP
-image: /images/pic03.jpg
+image: /images/picture03.png
 ---
 ## Un Audit, ça se Prépare !
 Les **directeurs de travaux et chefs d’entreprise du BTP** le savent : un audit de conformité peut vite devenir un cauchemar s’il n’a pas été bien anticipé. Un document manquant, un sous-traitant non déclaré, un contrat incomplet… et c’est la sanction assurée.

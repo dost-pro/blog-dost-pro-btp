@@ -4,7 +4,7 @@ title:  "Augmentez la Rentabilité de Vos Chantiers en Optimisant la Gestion des
 date:   2025-01-06 06:00:00
 categories: 
 tags: RentabilitéBTP OptimisationChantier GestionSousTraitance RéductionCoûts
-image: /images/pic01.jpg
+image: /images/picture10.png
 ---
 ##   Introduction : Un Levier de Rentabilité Souvent Négligé
 Dans le secteur du BTP, **les marges sont de plus en plus serrées** et chaque erreur peut coûter cher. Pourtant, un **facteur clé de rentabilité** est souvent sous-estimé : **la gestion des sous-traitants**.
@@ -41,7 +41,7 @@ Les erreurs administratives et la paperasse peuvent **faire perdre des heures pr
 
 ---
 
-## 🏗 3. Suivre l’Avancement des Travaux en Temps Réel
+##  3. Suivre l’Avancement des Travaux en Temps Réel
 
 Le manque de visibilité sur le travail des sous-traitants peut générer **des retards, des coûts supplémentaires et des tensions**.
 

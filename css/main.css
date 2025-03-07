@@ -2997,6 +2997,7 @@
 				font-size: 0.7em;
 			}
 
+
 		#header .links {
 			-moz-flex: 1;
 			-webkit-flex: 1;
@@ -3244,7 +3245,7 @@
 		border-bottom: 0;
 		display: inline-block;
 		margin: 0 0 1em 0;
-		width: 4em;
+		width: 1em;
 	}
 
 		#intro .logo:before {
@@ -3261,9 +3262,12 @@
 			width: 100%;
 		}
 
-		#intro .logo img {
+		#header .logo img {
 			display: block;
+			width: 55px;
+			margin-left: 20px;
 		}
+
 
 	#intro header h2 {
 		font-size: 2em;

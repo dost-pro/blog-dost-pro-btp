@@ -4,7 +4,7 @@ title:  "Trouver un Sous-Traitant Fiable en Urgence : Guide Pratique pour les do
 date:   2024-04-08 06:00:00
 categories:  
 tags: SousTraitanceBTP UrgenceChantier TrouverSousTraitant GestionChantier
-image: /images/pic02.jpg
+image: /images/picture08.png
 --- 
 
 ## Le Cauchemar des Retards de Chantiers.

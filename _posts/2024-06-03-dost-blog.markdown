@@ -4,7 +4,7 @@ title:  "Sous-Traitance BTP : 5 Pièges à Éviter pour Sécuriser Vos Chantiers
 date:   2024-06-03 06:00:00
 categories: 
 tags: SécuritéBTP GestionRisques ConformitéSousTraitance ChantierSansSurprise
-image: /images/pic01.jpg
+image: /images/picture07.png
 ---
 ## La Sous-Traitance, un Risque Mal Géré ?
 La sous-traitance est une pratique essentielle dans le BTP, mais elle comporte son lot de **risques**. Mauvais choix de partenaires, contrats flous, retards imprévus… Ces erreurs peuvent coûter cher aux **directeurs de travaux et chefs d'entreprise**.

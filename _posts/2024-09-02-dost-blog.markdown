@@ -4,7 +4,7 @@ title:  "Pourquoi le Bouche-à-Oreille Ne Suffit Plus pour Trouver des Sous-Trai
 date:   2024-09-02 06:00:00
 categories: 
 tags: SousTraitanceModerne DigitalBTP TrouverSousTraitants PlateformeBTP
-image: /images/pic03.jpg
+image: /images/picture06.png
 ---
 ##  Introduction : Une Méthode Qui Montre Ses Limites
 Dans le secteur du BTP, le **bouche-à-oreille** a longtemps été la méthode privilégiée pour trouver des sous-traitants. Les directeurs de travaux et chefs d’entreprise s’appuyaient sur leur réseau pour identifier des partenaires de confiance.
