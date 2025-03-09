@@ -16,19 +16,28 @@
   })(window,document,'script','dataLayer','GTM-WWJF7VBG');</script> -->
 
   <script>
-    if (document.body.getAttribute("data-cookies-accepted") === "true") {
-      var script = document.createElement("script");
-      script.async = true;
-      script.src = "https://www.googletagmanager.com/gtag/js?id=GTM-WWJF7VBG"; 
-      document.head.appendChild(script);
+    document.addEventListener("DOMContentLoaded", function () {
+      function loadGTM() {
+        var body = document.body || document.getElementsByTagName("body")[0];
+        if (body && body.getAttribute("data-cookies-accepted") === "true") {
+          var script = document.createElement("script");
+          script.async = true;
+          script.src = "https://www.googletagmanager.com/gtag/js?id=GTM-WWJF7VBG"; 
+          document.head.appendChild(script);
 
-      script.onload = function () {
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-        gtag('config', 'GTM-WWJF7VBG');
-      };
-    }
+          script.onload = function () {
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('config', 'GTM-WWJF7VBG');
+          };
+        } else {
+          setTimeout(loadGTM, 500); // Retry in 500ms if cookies are not accepted yet
+        }
+      }
+
+      loadGTM();
+    });
   </script>
   <!-- End Google Tag Manager -->
 </head>

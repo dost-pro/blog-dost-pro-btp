@@ -88,5 +88,4 @@ Une bonne gestion des sous-traitants permet **d’optimiser les coûts, d’acc�
 
   *Quels leviers utilisez-vous pour améliorer la rentabilité de vos chantiers ? Partagez vos expériences en commentaire !*
 
-
 [Lien vers DOST]: https://www.dost.pro/
